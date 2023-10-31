@@ -2,7 +2,7 @@
 
 <div align="center">
   <br/>
-    <h3><b> Hello World </b></h3>
+    <h3><b> Hello World Front End</b></h3>
     
   <br/>
 
@@ -13,6 +13,7 @@
 # 📗 Table of Contents
 
 - [📖  Hello World ](#--helloworld-)
+   - [Back end ](#back-end-)
 - [🛠 Built With ](#-built-with-)
    - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -42,6 +43,10 @@
 
 exercise that is going to create a React front-end with a Rails back-end and connect them to display a random message.
 
+## Backend
+
+This application connects to an API built with Rails. You can check it out [here](https://github.com/rudicarrilloypr/hello-react-front-end).
+
 
 <!-- Built with -->
 
@@ -49,6 +54,7 @@ exercise that is going to create a React front-end with a Rails back-end and con
 - Ruby on Rails
 - React
 - Webpack
+
 
 ### Tech Stack <a name="tech-stack"></a>
 
