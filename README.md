@@ -45,7 +45,7 @@ exercise that is going to create a React front-end with a Rails back-end and con
 
 ## Backend
 
-This application connects to an API built with Rails. You can check it out [here](https://github.com/rudicarrilloypr/hello-react-front-end).
+This application connects to an API built with Rails. You can check it out [here](https://github.com/rudicarrilloypr/hello-rails-back-end).
 
 
 <!-- Built with -->
@@ -98,7 +98,7 @@ Before you proceed, ensure that you have the following installed on your machine
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:rudicarrilloypr/hello-rails-react.git
+  git clone git@github.com:rudicarrilloypr/hello-react-front-end.git
 ```
 
 ### Install
